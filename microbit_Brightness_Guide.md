@@ -17,3 +17,10 @@ The brightness attribute of the LEDs is a range from 0 to 255. The number 255 is
 ![alt text](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-16%20at%204.29.31%20PM.png)
 ### 3. Place the variables in the appropriate order in the formula replacing the zeros
 ![alt text](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-16%20at%204.30.21%20PM.png)
+## Adding Volume Control
+### Add a variable
+Add MAX_VOLUME
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-17%20at%209.23.27%20AM.png)
+### Define (set) MAX_VALUE and add a sound to the 'On Start' Block
+'Set volume' block is in the Music section
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-17%20at%209.24.03%20AM.png)

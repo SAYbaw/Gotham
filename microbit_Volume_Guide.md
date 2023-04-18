@@ -1,6 +1,6 @@
 # micro:bit Advanced Button Logic
 ## Analog Rotary Emulation: Volume Control with Visual Display
-## *NOTE: Make sure to creat a new project called 'volume' in micro:bit.
+## *NOTE: Make sure to create a new project called 'volume' in micro:bit.*
 
 ### Create your variables
 Those that are in all caps are called constants. This is good practice to easily identify them. These values will not change during run time. We use constants instead of just using 'magic' numbers that are not descriptive. Also, if we need to change their value for whatever reason later, we only need to change it in one place.

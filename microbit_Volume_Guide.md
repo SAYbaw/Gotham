@@ -10,7 +10,7 @@ Notice we are using a different scale for this volume project. Therefore, we nee
 
 ![alt text](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-18%20at%209.33.18%20AM.png)
 ### Button A
-You are going to create your button logic the same way you did for your [brightness/volume project](https://github.com/SAYbaw/Gotham/blob/main/microbit_Brightness_Guide.md) (WITHOUT THE CODE FOR BRIGHTNESS) with a few aditional steps for the display. We want our visual display for volume to change the ENTIRE row of LEDs as we go up and down (button B and A), however, we can only plot one LED at a time. So we ar going to use a 'for' loop to plot all the horizontal LEDs in each row so the appear and disappear at once. The looping of the LED's one by one in a row is inperceptable by the human eye, so it will appear to turn on and off instantly. First we are going to grab a 'for' loop from Loops. The variable index is included in the 'for' loop so you DO NOT HAVE TO CREATE AN index variable. All you need to do is drag the index red oval from the loop header (the top of the loop block) and drag it into your x variable of your unplot/plot block. The XY coordiantes of the LED display are like this...
+You are going to create your button logic the same way you did for your [brightness/volume project](https://github.com/SAYbaw/Gotham/blob/main/microbit_Brightness_Guide.md) (WITHOUT THE CODE FOR BRIGHTNESS) with a few aditional steps for the display. We want our visual display for volume to change the ENTIRE row of LEDs as we go up and down (button B and A), however, we can only plot one LED at a time. So we are going to use a 'for' loop to plot all the horizontal LEDs in each row so the appear and disappear at once. The looping of the LED's one by one in a row is inperceptable by the human eye, so it will appear to turn on and off instantly. First we are going to grab a 'for' loop from Loops. The variable index is included in the 'for' loop so you DO NOT HAVE TO CREATE AN index variable. All you need to do is drag the index red oval from the loop header (the top of the loop block) and drag it into your x variable of your unplot/plot block. The XY coordiantes of the LED display are like this...
 | 0 | 1 | 2 | 3 | 4 |
 | :---: | :---: | :---: | :---: | :---: |
 | 0,0 | 1,0 | 2,0 | 3,0 | 4,0 |
@@ -25,4 +25,8 @@ This means, if we are lowering our volume (decreasing our clickCt by -1 with but
 ### Button B
 Same logic as button A but now you are increasing volume. You need to change clickCt by 1 and yCt by -1. Instead of uplotting LEDs to turn them off, we are plotting LEDs to turn them on. So we use this block instead.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-18%20at%209.36.05%20AM.png)
+
+You can use the same button logic as you did for the [brightness/volume project](https://github.com/SAYbaw/Gotham/blob/main/microbit_Brightness_Guide.md)
+It may be easier to have both tabs opened so you can see how you did button B for the other project. However, there is one difference. Instead of clickCt < CLICK_MAX, you want to use <= (less than or equals).
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-19%20at%209.01.42%20AM.png)
 

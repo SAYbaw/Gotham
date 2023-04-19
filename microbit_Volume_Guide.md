@@ -26,7 +26,7 @@ This means, if we are lowering our volume (decreasing our clickCt by -1 with but
 Same logic as button A but now you are increasing volume. You need to change clickCt by 1 and yCt by -1. Instead of uplotting LEDs to turn them off, we are plotting LEDs to turn them on. So we use this block instead.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-18%20at%209.36.05%20AM.png)
 
-You can use the same button logic as you did for the [brightness/volume project](https://github.com/SAYbaw/Gotham/blob/main/microbit_Brightness_Guide.md)
+You can use the same button logic as you did for the [brightness/volume project](https://github.com/SAYbaw/Gotham/blob/main/microbit_Brightness_Guide.md).
 It may be easier to have both tabs opened so you can see how you did button B for the other project. However, there is one difference. Instead of clickCt < CLICK_MAX, you want to use <= (less than or equals).
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-19%20at%209.01.42%20AM.png)
 

@@ -24,6 +24,6 @@ Add MAX_VOLUME
 ### Define (set) MAX_VALUE and add a sound to the 'On Start' Block
 'Set volume' block is in the Music section
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-17%20at%209.24.03%20AM.png)
-### Add 'Set volume' and some kind of tune or tone from music to each button event
-Place in the 'if' section of the 'if else' block. Make sure it is placed after the 'change clickCt' block. The formula for 'set volume' is the same as the brightness, just with MAX_VOLUME. If you have a long tune playing on start, then you do not have to add another tone or tune here but it may be easier for testing to triger a new tone or tune on each button click.
+### Add 'Set volume' and some kind of tune or tone from music to each button event (button A and button B)
+Place in the 'if' section of the 'if else' block of buttan A and button B. Make sure it is placed after the 'change clickCt' block. The formula for 'set volume' is the same as the brightness, just with MAX_VOLUME. If you have a long tune playing on start, then you do not have to add another tone or tune here but it may be easier for testing to triger a new tone or tune on each button click.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/Screen%20Shot%202023-04-17%20at%2012.04.46%20PM.png)

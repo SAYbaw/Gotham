@@ -32,13 +32,18 @@ In the function definition of getDeltaTime, place a 'square root' from math and 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.22.19%20PM.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.22.57%20PM.png)
 
-timer definition incomplete for loop
+### Drag 'num' from function header into first '0' and type 1000 into second '0'
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2011.57.38%20AM.png)
+
+### In the timer definition, place the following blocks.
+We need our for loop to start with the value of num and go to 1 so therefore we have to edit it in JavaScript.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.30.40%20PM.png)
 
-blocks and JavaScript
+### Switch over to JavaScript to force edit 'for' loop block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.39.32%20PM.png)
 
-Look for timer definition
+### Look for timer definition in the JavaScript code
+## *NOTE: YOUR LINE NUMBERS MAY NOT BE THE SAME AS THOSE PICTURED. LOOK FOR THE WORD
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.41.12%20PM.png)
 
 close up on for loop

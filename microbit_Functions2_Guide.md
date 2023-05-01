@@ -9,14 +9,15 @@ Add deltaTime, isRunning and startTime to your variables
 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-28%20at%202.31.32%20PM.png)
 
+### Initialize isRunning to False in on start
+Grab a false block from the logic menu
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.11.46%20PM.png)
 
 ### Create a function header called 'timer' that takes one number parameter
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.06.20%20PM.png)
 
-initialize isRunning
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.11.46%20PM.png)
-
-getDeltaTime definition with '0 - 0'
+### Create a function header called 'deltaTime' that takes one number parameter
+In the function definition of getDeltaTime, place a '0 - 0' from math and place it in the '0' of a return block.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.17.20%20PM.png)
 
 running time in menu

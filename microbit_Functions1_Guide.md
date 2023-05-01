@@ -5,8 +5,8 @@
 ### Create your functions
 First, go to the command menu in the middle of the screen and click on the 'Advance' button.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2010.56.49%20AM.png)
-
 Click on Functions.
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.00.21%20AM.png)
 ### Create function header for displaying an image.
 Type the name 'displayImg' where it says 'doSomething'

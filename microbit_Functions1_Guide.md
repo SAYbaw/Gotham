@@ -1,5 +1,8 @@
 # micro:bit Functions
 ## Programmer Defined Functions: Intro with the Pythagorean Theorem
+
+**Create a [new project in micro:bit](https://makecode.microbit.org/) called 'functions'**
+
 ### Create your variables
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2010.59.09%20AM.png)
 ### Create your functions

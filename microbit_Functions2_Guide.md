@@ -73,7 +73,7 @@ You are going to place it directly into the if statement block. You DO NOT need 
 ### Place in the 'if' block of the 'forever' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.25.09%20PM.png)
 
-### Complete the 'forever' block code
+### Finally, add a 'pause' from the basic menu to the 'forever' block code
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.27.34%20PM.png)
 
 ### Get 'on Logo pressed' from input menu

@@ -51,7 +51,7 @@ We need our for loop to start with the value of num and go to 1 so therefore we 
 
 ### Edit the 'for' loop in JavaScript
 
-    for (let index = num; index > 0; index2--)
+    for (let index = num; index > 0; index--)
 Change the first 0 to num, <= 4 to > 0 and index++ to index--. This will make our timer count down instead of up. 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2012.45.20%20PM.png)
 

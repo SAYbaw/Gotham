@@ -83,13 +83,15 @@ You are going to place it directly into the if statement block. You DO NOT need 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.40.45%20PM.png)
 
 ### Place the following code in the 'on logo pressed v' event
-Place the variable 
+Place the variable 'startTime' in the '1' place of the getDeltaTime function call and get a 'false' block from logic to set isRunning to false
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.41.55%20PM.png)
 
-on logo complete
+### Complete the 'else' clause of the 'if else' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.46.16%20PM.png)
 
-on shake
+### Finally grab an 'on shake v' event from the input menu
+Grab the call timer function block from the function menu and put a 3 as the argument for testing purposes
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.48.37%20PM.png)
 
 

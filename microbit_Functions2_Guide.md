@@ -6,7 +6,6 @@
 ### Create your variables
 
 Add deltaTime, isRunning and startTime to your variables
-
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-28%20at%202.31.32%20PM.png)
 
 ### Initialize isRunning to False in on start
@@ -20,18 +19,17 @@ Grab a false block from the logic menu
 In the function definition of getDeltaTime, place a '0 - 0' from math and place it in the '0' of a return block.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.17.20%20PM.png)
 
-### From the input menu ... more, get the 'running time' variable
-click on input menu (pink) then click 'more ...'
-
+### From the input menu '...more', get the 'running time (ms)' variable
+click on input menu (pink) then click '...more'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.18.20%20PM.png)
 
 ### Complete deltaTime function definition
+Put 'running time (ms)' into first '0' of the '0 - 0' and drag 'num' from function header into second '0'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.19.09%20PM.png)
 
-convertMilli definition with square root
+### Create a function header called 'convertMilli' that takes one parameter
+In the function definition of getDeltaTime, place a 'square root' from math and place it in the '0' of a return block. Click on the down arrow next to 'square root' for a drop down menu of other options and select 'integer division'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.22.19%20PM.png)
-
-convertMilli definition with integer division
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.22.57%20PM.png)
 
 timer definition incomplete for loop

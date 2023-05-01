@@ -47,8 +47,16 @@ Drag the 'num' from the fuction header and drag it into each '0' of the first '0
 ### Go to the 'JavaScript' side to check your math
 At the top of the screan click where it says 'JavaScript'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2012.25.05%20PM.png)
-Look for the function definition of 'pythagorean' in the code. If it looks like this, you did it correctly in blocks. If not, you can edit your JavaScript here and make the formula look like the picture below. Remember, you can also add parantheses to force the order of operations.
+Look for the function definition of 'pythagorean' in the code. If it looks like this, you did it correctly in blocks. If not, you can edit your JavaScript here and make the formula look like the picture below (**NOTE: Your line numbers for your function may be different than the picture.**). Remember, you can also add parantheses to force the order of operations.
 
       return Math.sqrt((num * num) + (num2 * num2))
       
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2012.25.40%20PM.png)
+### In 'on start' let's "hard code" some values by initializing our variables.
+By using 3 and 4 for 'height' and 'base' the answer will be '5.' You can add different numbers in there for further testing.
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.26.17%20AM.png)
+### Call our functions in a button event
+Use 'button A+B' from input menu and place the following blocks into the event.
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.28.01%20AM.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.30.41%20AM.png)
+

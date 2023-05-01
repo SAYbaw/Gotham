@@ -70,13 +70,13 @@ You are going to place it directly into the if statement block. You DO NOT need 
 ### From the led menu get a 'toggle x 0 y 0' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.24.29%20PM.png)
 
-### Place in an 'if' block in the 'forever' block
+### Place in the 'if' block of the 'forever' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.25.09%20PM.png)
 
 ### Complete the 'forever' block code
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.27.34%20PM.png)
 
-### Get on Logo pressed from input menu
+### Get 'on Logo pressed' from input menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.32.31%20PM.png)
 
 

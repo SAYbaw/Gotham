@@ -47,17 +47,17 @@ We need our for loop to start with the value of num and go to 1 so therefore we 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.41.12%20PM.png)
 
 ### A close up on the 'for' loop
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.44.46%20PM.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2012.37.04%20PM.png)
 
 ### Edit the 'for' loop in JavaScript
 
     for (let index = num; index > 0; index2--)
 Change the first 0 to num, <= 4 to > 0 and index++ to index--. This will make our timer count down instead of up. 
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.46.10%20PM.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2012.45.20%20PM.png)
 
 ### Switch back to blocks. 
 This is what your timer function should look like when complete.
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.47.48%20PM.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2012.39.00%20PM.png)
 
 ### Get isRunning from Variables and bring it over to your 'forever' block
 You are going to place it directly into the if statement block. You DO NOT need a comparator from the logic menu. It may look like it will not fit.

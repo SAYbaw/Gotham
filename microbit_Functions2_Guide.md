@@ -4,7 +4,9 @@
 **open ['functions' in micro:bit](https://makecode.microbit.org/) and add the following to it**
 
 ### Create your variables
+
 Add deltaTime, isRunning and startTime to your variables
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-28%20at%202.31.32%20PM.png)
 
 

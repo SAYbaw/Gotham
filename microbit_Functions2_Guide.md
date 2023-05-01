@@ -60,22 +60,23 @@ This is what your timer function should look like when complete.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2012.39.00%20PM.png)
 
 ### Get isRunning from Variables and bring it over to your 'forever' block
-You are going to place it directly into the if statement block. You DO NOT need a comparator from the logic menu. It may look like it will not fit.
+You are going to place it directly into the if statement block. You DO NOT need a comparator from the logic menu. It may look like it will not fit but it does.
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.22.32%20PM.png)
 
-### isRunning will fit and snap in place or the if block
+### isRunning will fit and snap in place in the conditional area (the place where it says 'true v' in the header of the 'if' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.22.54%20PM.png)
 
-led menu for toggle
+### From the led menu get a 'toggle x 0 y 0' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.24.29%20PM.png)
 
-forever with toggle
+### Place in an 'if' block in the 'forever' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.25.09%20PM.png)
 
-forever complete
+### Complete the 'forever' block code
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.27.34%20PM.png)
 
-on Logo pressed in menu
+### Get on Logo pressed from input menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.32.31%20PM.png)
 
 

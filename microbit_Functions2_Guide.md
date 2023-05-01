@@ -10,7 +10,7 @@ Add deltaTime, isRunning and startTime to your variables
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-28%20at%202.31.32%20PM.png)
 
 
-timer header
+### Create a function header called 'timer' that takes one number parameter
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.06.20%20PM.png)
 
 initialize isRunning

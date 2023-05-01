@@ -36,7 +36,8 @@ In the function definition of getDeltaTime, place a 'square root' from math and 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-05-01%20at%2011.57.38%20AM.png)
 
 ### In the timer definition, place the following blocks.
-We need our for loop to start with the value of num and go to 1 so therefore we have to edit it in JavaScript.
+Grab the 'pause (ms)' from the basic menu and select from the dropdown (next to the white circle with the number in it) 1 second or 1000 ms. We need our for loop to start with the value of num and go to 1 so therefore we have to edit it in JavaScript.
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.30.40%20PM.png)
 
 ### Switch over to JavaScript to force edit 'for' loop block

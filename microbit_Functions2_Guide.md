@@ -43,7 +43,7 @@ We need our for loop to start with the value of num and go to 1 so therefore we 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.39.32%20PM.png)
 
 ### Look for timer definition in the JavaScript code
-## *NOTE: YOUR LINE NUMBERS MAY NOT BE THE SAME AS THOSE PICTURED. LOOK FOR THE WORD
+*NOTE: YOUR LINE NUMBERS MAY NOT BE THE SAME AS THOSE PICTURED. LOOK FOR THE WORD...* **function timer** *FOLLOWED ON THE NEXT LINE BY THE WORD **for**
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.41.12%20PM.png)
 
 close up on for loop

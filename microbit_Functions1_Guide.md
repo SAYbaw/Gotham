@@ -61,5 +61,9 @@ By using 3 and 4 for 'height' and 'base' the answer will be '5.' You can add dif
 ### Call our functions in a button event
 Use 'button A+B' from input menu and place the following blocks into the event.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.28.01%20AM.png)
+
+*Notice there are two different types of blocks for 'call pythagorean' one is rectangular-ish and the other is oval shaped. The oval shaped one can be placed directly into the show number block because this function returns a number.*
+
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.04.57%20PM.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.30.41%20AM.png)
 

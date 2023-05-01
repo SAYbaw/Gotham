@@ -80,8 +80,7 @@ You are going to place it directly into the if statement block. You DO NOT need 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.32.31%20PM.png)
 
 
-function menu
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.04.57%20PM.png)
+
 
 call getDeltatime in menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.40.45%20PM.png)

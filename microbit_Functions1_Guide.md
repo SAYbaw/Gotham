@@ -43,3 +43,12 @@ Go to the math menu and grab 2 '0 x 0' and place them in each '0' of the '0 + 0'
 
 Drag the 'num' from the fuction header and drag it into each '0' of the first '0 x 0' and then drag 'num2' into each '0' of the other '0 x 0'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.21.36%20AM.png)
+
+### Go to the 'JavaScript' side to check your math
+At the top of the screan click where it says 'JavaScript'
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2012.25.05%20PM.png)
+Look for the function definition of 'pythagorean' in the code. If it looks like this, you did it correctly in blocks. If not, you can edit your JavaScript here and make the formula look like the picture below. Remember, you can also add parantheses to force the order of operations.
+
+      return Math.sqrt((num * num) + (num2 * num2))
+      
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2012.25.40%20PM.png)

@@ -43,22 +43,27 @@ We need our for loop to start with the value of num and go to 1 so therefore we 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.39.32%20PM.png)
 
 ### Look for timer definition in the JavaScript code
-*NOTE: YOUR LINE NUMBERS MAY NOT BE THE SAME AS THOSE PICTURED. LOOK FOR THE WORD...* **function timer** *FOLLOWED ON THE NEXT LINE BY THE WORD **for**
+*NOTE: YOUR LINE NUMBERS MAY NOT BE THE SAME AS THOSE PICTURED. LOOK FOR THE WORD...* **function timer** *FOLLOWED ON THE NEXT LINE BY THE WORD* **for (**
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.41.12%20PM.png)
 
-close up on for loop
+### A close up on the 'for' loop
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.44.46%20PM.png)
 
-edited for loop
+### Edit the 'for' loop in JavaScript
+
+    for (let index = num; index > 0; index2--)
+Change the first 0 to num, <= 4 to > 0 and index++ to index--. This will make our timer count down instead of up. 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.46.10%20PM.png)
 
-timer function complete
+### Switch back to blocks. 
+This is what your timer function should look like when complete.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.47.48%20PM.png)
 
-forever block befores isRunning
+### Get isRunning from Variables and bring it over to your 'forever' block
+You are going to place it directly into the if statement block. You DO NOT need a comparator from the logic menu. It may look like it will not fit.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.22.32%20PM.png)
 
-forever with isRunning
+### isRunning will fit and snap in place or the if block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.22.54%20PM.png)
 
 led menu for toggle

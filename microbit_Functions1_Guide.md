@@ -37,3 +37,9 @@ Place it directly where it says '0' in the return block.
 
 Go to the math menu and grab the '0 + 0' and place that in the '0' of square root.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.15.56%20AM.png)
+
+Go to the math menu and grab 2 '0 x 0' and place them in each '0' of the '0 + 0'
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.20.21%20AM.png)
+
+Drag the 'num' from the fuction header and drag it into each '0' of the first '0 x 0' and then drag 'num2' into each '0' of the other '0 x 0'
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.21.36%20AM.png)

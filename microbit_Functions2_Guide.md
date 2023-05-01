@@ -20,10 +20,12 @@ Grab a false block from the logic menu
 In the function definition of getDeltaTime, place a '0 - 0' from math and place it in the '0' of a return block.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.17.20%20PM.png)
 
-running time in menu
+### From the input menu ... more, get the 'running time' variable
+click on input menu (pink) then click 'more ...'
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.18.20%20PM.png)
 
-getDeltaTime definition complete
+### Complete deltaTime function definition
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%209.19.09%20PM.png)
 
 convertMilli definition with square root

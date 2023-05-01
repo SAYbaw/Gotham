@@ -5,6 +5,7 @@
 ### Create your functions
 First, go to the command menu in the middle of the screen and click on the 'Advance' button.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2010.56.49%20AM.png)
+
 Click on Functions.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.00.21%20AM.png)
 ### Create function header for displaying an image.
@@ -15,7 +16,9 @@ Place the following blocks into the function header.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-05-01%20at%2012.19.20%20AM.png)
 ### To save space in your work area, you can collapse the function definition
 On the upper right hand corner of the fuction definition there is a up arrow '^' you can click or unclick...
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.04.40%20AM.png)
+
 ...and only the header will show.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.05.15%20AM.png)
 ### Create a function called 'pythagorean'

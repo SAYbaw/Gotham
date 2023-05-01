@@ -31,7 +31,9 @@ Under 'Edit Function' there is a row that says 'add a parameter' with a row of b
 ### Add the Pythagorean formula to the return block
 Go to the math menu and grab the 'square root' block.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.14.16%20AM.png)
+
 Place it directly where it says '0' in the return block.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.15.13%20AM.png)
+
 Go to the math menu and grab the '0 + 0' and place that in the '0' of square root.
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.15.56%20AM.png)

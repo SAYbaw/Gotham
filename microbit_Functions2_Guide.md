@@ -79,13 +79,11 @@ You are going to place it directly into the if statement block. You DO NOT need 
 ### Get 'on Logo pressed' from input menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.32.31%20PM.png)
 
-
-
-
-call getDeltatime in menu
+### The oval versions of call getDeltatime and call convertMilli will be used in the 'on logo pressed v' event
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.40.45%20PM.png)
 
-on logo up to if clause
+### Place the following code in the 'on logo pressed v' event
+Place the variable 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions2/Screen%20Shot%202023-04-30%20at%2011.41.55%20PM.png)
 
 on logo complete

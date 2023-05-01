@@ -27,4 +27,11 @@ On the upper right hand corner of the fuction definition there is a up arrow '^'
 Under 'Edit Function' there is a row that says 'add a parameter' with a row of boxes. Click the box that says 'Number' twice.
 ### Add a return statement to the function header
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.10.29%20AM.png)
-
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.12.16%20AM.png)
+### Add the Pythagorean formula to the return block
+Go to the math menu and grab the 'square root' block.
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.14.16%20AM.png)
+Place it directly where it says '0' in the return block.
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.15.13%20AM.png)
+Go to the math menu and grab the '0 + 0' and place that in the '0' of square root.
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions1/Screen%20Shot%202023-04-28%20at%2011.15.56%20AM.png)

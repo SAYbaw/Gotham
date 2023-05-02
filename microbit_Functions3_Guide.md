@@ -4,8 +4,16 @@
 **open ['functions' in micro:bit](https://makecode.microbit.org/) and add the following to it**
 
 ### Create your variables
+Add arrayIndex, choice, evens, and odds to your variable list
+*NOTE: You **DO NOT** have to create a variable named* **list**
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/00.png)
+
+### From the block menu, click on Advanced then Arrays
+Select 2 'set' blocks from the array menu(first block under 'Create').
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/01.png)
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/02.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/03.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/04.png)

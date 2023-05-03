@@ -27,14 +27,26 @@ Change the 'set list v' by clicking on the down arrow to the right of 'list' and
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/06.png)
 ### Drag the parameter 'list' and place it where it says 'list v' in the 'list v get value at 0'
 *NOTE: EVEN THOUGH THEY ARE BOTH CALLED* list *YOU MUST MAKE SURE YOU DO THIS*
+
 This is because when you bring a 'set' block into your project, MakeCode automatically generates a variable called 'list.' We want to use the PARAMETER we created called 'list' instead.
 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/07.png)
 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/08.png)
+### Add an 'if else' block from the logic menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/09.png)
+### Add a '0 = 0' comparator from the logic menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/10.png)
+### Complete your function definition
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/11.png)
+### Get an 'on button A' event from input menu
+Add a 'show number' block from the basic menu
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/12.png)
+
+### Get oval version of 'call getUserChoice' from function menu
+click the 'v' inside the red oval 'list v' and select 'evens' from the dropdown menu
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/13.png)
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/14.png)

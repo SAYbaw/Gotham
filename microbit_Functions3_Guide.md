@@ -21,9 +21,16 @@ Change the 'set list v' by clicking on the down arrow to the right of 'list' and
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/03.png)
 ### In the 'getUserChoice' definition block, place a 'set' block from the variables menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/04.png)
+### Go to the Array menu and get this block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/05.png)
+### Place it inside the '0' of the 'set' block
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/06.png)
+### Drag the parameter 'list' and place it where it says 'list v' in the 'list v get value at 0'
+*NOTE: EVEN THOUGH THEY ARE BOTH CALLED* list *YOU MUST MAKE SURE YOU DO THIS*
+This is because when you bring a 'set' block into your project, MakeCode automatically generates a variable called 'list.' We want to use the PARAMETER we created called 'list' instead.
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/07.png)
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/08.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/09.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/10.png)

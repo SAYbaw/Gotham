@@ -10,12 +10,16 @@ Add arrayIndex, choice, evens, and odds to your variable list
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/00.png)
 
 ### From the block menu, click on Advanced then Arrays
-Select 2 'set' blocks from the array menu(first block under 'Create').
+Select two 'set' blocks from the array menu(it is the first block under 'Create').
 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/01.png)
+### Place them in 'On start'
+Change the 'set list v' by clicking on the down arrow to the right of 'list' and select 'evens' for one block and 'odds' for the other. Each array will hold 3 elements. Click on the '+' on the right hand side of the 'set' block to increase the array size from 2 to 3. Type the numbers in each array as pictured below
 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/02.png)
+### Create a function header called 'getUserChoice' and add an 'array' as a parameter 
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/03.png)
+### In the 'getUserChoice' definition block, place a 'set' block from the variables menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/04.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/05.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/functions3/06.png)

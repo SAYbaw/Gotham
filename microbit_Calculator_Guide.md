@@ -23,6 +23,12 @@
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/13.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/14.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/15.png)
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/16.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/17.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/18.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/19.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/20.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/21.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/22.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/23.png)
 
 # More to be added...

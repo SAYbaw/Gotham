@@ -42,6 +42,7 @@ For each function, click on the 'Add a parameter', 'Number' button twice
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/23.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/24.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/25.png)
+### Drag 'num' and 'num'2 from the function header into each '0' of the equation
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/26.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/27.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/28.png)

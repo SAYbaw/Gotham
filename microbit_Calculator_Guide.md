@@ -26,7 +26,9 @@ If you do not see images in the menu, click on 'advanced'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/12.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/13.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/14.png)
+### Get this block from the Arrays menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/15.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/16.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/17.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/18.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/19.png)

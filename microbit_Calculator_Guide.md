@@ -36,6 +36,9 @@ If you do not see images in the menu, click on 'advanced'
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/20.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/21.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/22.png)
+### Create 4 fuction headers (add, subtract, multiply & divide)
+For each function, click on the 'add parameters', 'number' button twice
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/23.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/24.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/25.png)

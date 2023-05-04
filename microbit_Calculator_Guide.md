@@ -46,7 +46,7 @@ For each function, click on the 'Add a parameter', 'Number' button twice
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/26.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/27.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/28.png)
-![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/28a.png)
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/29.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/30.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/31.png)
@@ -56,6 +56,7 @@ For each function, click on the 'Add a parameter', 'Number' button twice
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/35.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/36.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/37.png)
+![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/28a.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/38.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/39.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/40.png)

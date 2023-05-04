@@ -6,9 +6,13 @@
 ### Create your variables
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/00.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/01.png)
+### Get this block from the arrays menu
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/02.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/03.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/04.png)
+### Get a 'create image' block from the images menu
+If you do not see images in the menu, click on 'advanced'
+
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/05.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/06.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/07.png)

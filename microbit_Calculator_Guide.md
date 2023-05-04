@@ -61,4 +61,7 @@ For each function, click on the 'Add a parameter', 'Number' button twice
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/39.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/40.png)
 ![](https://github.com/SAYbaw/Gotham/blob/main/images/microbit/calculator/41.png)
+---
+## Test your calculator
+### press button A to move the numbers down and button B to move the numbers up. Select your first operand and press the logo button to enter. Press buttons A or B to cycle through the operations. Select your operation and press the logo to enter. Now select your second operand by pressing button A or B and press enter to solve your equation. Your answer will apear or scroll on the screen. The micro:bit is now ready for a new calculation.
 
